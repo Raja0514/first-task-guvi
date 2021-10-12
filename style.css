@@ -1,0 +1,101 @@
+#overflow{
+    overflow-x: scroll;
+    width:auto;
+    height: auto;
+    background-color: 10px solid black;
+    padding: 15px;
+}
+.container{
+
+    width:1400px;
+    height: 800px;
+    background-color:rgb(202,210,197);
+    position: relative;
+}
+.header{
+
+    width: 1400px;
+    height: 60px;
+    background-color:rgb(47,61,70);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 28px;
+    margin-bottom: 40px; 
+    position: relative;
+}
+
+img{
+
+    position: absolute;
+    left: 0px;
+    padding: 15px;
+    bottom:10%;
+
+    
+    
+}
+.box1{
+    width: 700px;
+    height: 50px;
+    position:absolute;
+    left: 35%;
+    top:22%;
+    text-align: left;
+    border-radius:0.5rem;
+    background-color: rgb(53,53,53);
+    color: white;
+    padding:20px;
+    font-size: 30px;    
+}
+.box2{
+    width: 350px;
+    height: 600px;
+    position:absolute;
+    bottom:7%;
+    left: 2.5%;
+    border-radius: 2rem;
+    background-color: rgb(53,53,53);
+    
+}
+.box3{
+    width: 200px;
+    height: 150px;
+    position:absolute;
+    right:32%;
+    top:40%;
+    border-radius: 1rem;
+    background-color: rgb(53,53,53);
+}
+.box4{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left:31%;
+    top: 40%;
+    border-radius: 1rem;
+    background-color: rgb(53,53,53);
+        
+}
+.box5{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    right: 10%;
+    bottom:0px;
+    top: 40%;
+    border-radius: 1rem;
+    background-color: rgb(53,53,53);
+    
+    
+}
+.box6{
+    width: 800px;
+    height: 150px;
+    position:absolute;
+    right: 60%;
+    bottom: 7%;
+    left: 32%;
+    border-radius: 1rem;
+    background-color: rgb(53,53,53);
+}
